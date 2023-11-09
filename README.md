@@ -1,4 +1,4 @@
-# minData
+# minData SuperHeroesAPI
 Este proyecto es una API de Spring Boot que proporciona operaciones CRUD para gestionar superhéroes.
 ## Autor
 
