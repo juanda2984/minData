@@ -1,0 +1,1 @@
+INSERT INTO SUPER_HERO (ID, NAME, SUPER_POWER) VALUES (100,'Capitana Marvel', 'Super fuerza');

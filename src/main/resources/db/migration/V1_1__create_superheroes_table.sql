@@ -1,0 +1,6 @@
+-- db/migration/V1__create_superheroes_table.sql
+CREATE TABLE SUPER_HERO (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    NAME VARCHAR(255) NOT NULL,
+    SUPER_POWER VARCHAR(255) NOT NULL
+);
