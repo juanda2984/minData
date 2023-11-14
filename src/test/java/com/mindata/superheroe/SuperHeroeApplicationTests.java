@@ -56,6 +56,7 @@ class SuperHeroeApplicationTests {
 		SuperHero createdSuperHero = superHeroService.createSuperhero(superHero);
 		assertNotNull(createdSuperHero);
 		assertEquals("Spiderman", createdSuperHero.getName());
+		assertEquals("Trepar por las paredes", createdSuperHero.getSuperPower());
 	}
 	
 	@Test
